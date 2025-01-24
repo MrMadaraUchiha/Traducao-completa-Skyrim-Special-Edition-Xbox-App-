@@ -1,5 +1,8 @@
 # Tradução Completa Skyrim Special Edition (Xbox App)
 
+![Skyrim Background](https://wallpapercat.com/w/full/5/a/d/5315-1920x1080-desktop-1080p-skyrim-background.jpg)
+
+
 Bem-vindo ao repositório da tradução completa de **The Elder Scrolls V: Skyrim Special Edition** para a versão do jogo disponível no **Xbox App** (PC Game Pass). Este projeto busca trazer uma experiência completamente traduzida para o português do Brasil (PT-BR), incluindo diálogos, menus, textos descritivos e muito mais. **Nota:** A tradução é exclusivamente para os textos do jogo, não inclui a dublagem.
 
 ---
